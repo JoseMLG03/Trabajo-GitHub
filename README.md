@@ -82,7 +82,9 @@ Ejercicios de Ejemplo Resueltos
 Ejercicio 1
 ---
 El primer ejercicio consta de los siguientes pasos.
+
 	1- Crear un proyecto en IntelliJ
+	
 	2- Subir el proyecto a un repositorio **local**
 
 **1ª parte del ejercicio.**
@@ -98,13 +100,17 @@ Una vez dentro le ponemos nombre al proyecto la localización donde queramos gua
 **2ª parte del ejercicio.**
 
 Abriremos **Git Bash** en la ubicación del proyecto.
+
 Usaremos los comandos del terminal para crear un repositorio **local** al cual subiremos  el proyecto que acabamos de crear de la siguiente manera.  
 
 ![.](Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 2.png)
 
 Primero se hace un “ **git init** ” para hacer el repositorio local al que subiremos el proyecto
+
 Segundo se hace un “ **git add** . ” para añadir todo el contenido de la carpeta a la subida
+
 Tercero se hace un “ **git commit -m “Proyecto Ejemplo”** ” para subir todo lo almacenado a la subida al repositorio local.  
+
 
 
 

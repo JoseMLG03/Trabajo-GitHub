@@ -5,8 +5,8 @@
 ## Indice
 
  1. Que es Git y Github?
-    - Git
-    - GitHub
+    1. Git
+    2. GitHub
     
 2.  Comandos Básicos GitHub
     -Add

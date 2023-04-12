@@ -8,7 +8,7 @@
     1. Git
     2. GitHub
     
-2.  Comandos Básicos GitHub
+2.  Comandos Básicos Git
     1. Add
 
     2. Commit
@@ -34,4 +34,9 @@
     4. Ejercicio 4
 
 ¿Que es Git y GitHub? 
+===
+
+
+
+Comandos Básicos de Git
 ===

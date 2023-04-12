@@ -1,4 +1,4 @@
-# Trabajo-GitHub
+# Trabajo/Tutorial de GitHub
 
 ![.](Imagenes\Logo1.png)
 
@@ -78,3 +78,23 @@ Comandos Básicos de Git
    
 Ejercicios de Ejemplo Resueltos
 ===
+
+Ejercicio 1
+---
+
+
+
+Ejercicio 2
+---
+
+
+
+Ejercicio 3
+---
+
+
+
+Ejercicio 4
+---
+
+

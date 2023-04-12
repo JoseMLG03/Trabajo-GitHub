@@ -1,6 +1,6 @@
 # Trabajo-GitHub
 
-![.](C:\Users\a22josemlg\Desktop\Contornos\imagenes\Logo.png)
+![.](Imagenes\Logo1.png)
 
 ## Indice
 

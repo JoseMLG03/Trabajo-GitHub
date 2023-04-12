@@ -25,5 +25,5 @@
 
     -Merge
 
-       1.Conflictos en el Merge
+       1. Conflictos en el Merge
 

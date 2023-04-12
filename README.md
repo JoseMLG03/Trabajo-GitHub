@@ -62,7 +62,6 @@ Comandos Básicos de Git
  aaaaaa
 
  - Merge
- aaaaaa
- 
-  1. Conflictos de Merge
+
+    - Conflictos de Merge
 

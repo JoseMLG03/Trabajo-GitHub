@@ -182,7 +182,54 @@ Despues:
 
 Ejercicio 3
 ---
+El tercer ejercicio consta de los siguientes pasos.
 
+**1**- Crear un repositorio nuevo en GitHub con README.md y .gitignore
+	
+**2**- Crear un proyecto marcando “Create Git repository”
+
+**3**- Añadir el repositorio de GitHub como remoto e intentar hacer un pull
+
+**4**- Quitar cambios del stage (Deshacer el git add)
+
+**5**- Ahora que los cambios estan sin trackear, Intentar hacer un pull
+
+**6**- Eliminar el .ignore local si queremos quedarnos con el remoto
+
+**7**- Mover lo que estaba en **remoto** en la rama main, a la rama master **local**
+
+**8**- Eliminar la rama main del repositorio de GitHub
+
+**9**- Modificar el proyecto local (Commit: “Modificación de codigo 1”)
+
+**10**- Crear una nueva rama de “correción de bug”
+
+**11**- Corregir el problema, comitear la correccion en la rama y pushearla
+	
+**12**- Mergear la rama “correcion de bug”
+	
+----------------------------------------------------------------
+
+**1ª parte del ejercicio.**
+
+Crear un repositorio nuevo como se ha indicado anteriormente en el 
+
+**Ejercicio2, Parte 1**
+
+**2ª parte del ejercicio.**
+
+Crear un proyecto nuevo como se ha indicado anteriormente en el 
+
+**Ejercicio1, Parte 1**
+
+**3ª parte del ejercicio.**
+
+Se añade el repositorio de GitHub como remoto mediante el comando “**git remote add origin “URL de tu repositorio”** ”
+
+Para hacer el pull se hará con “ **git pull origin main** ”
+
+**4ª parte del ejercicio.**
+S
 
 
 Ejercicio 4

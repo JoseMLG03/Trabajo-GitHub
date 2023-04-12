@@ -226,9 +226,14 @@ Crear un proyecto nuevo como se ha indicado anteriormente en el
 
 Se añade el repositorio de GitHub como remoto mediante el comando “**git remote add origin “URL de tu repositorio”** ”
 
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 3/Ejercicio 3 - Apartado 3.png)
+
 Para hacer el pull se hará con “ **git pull origin main** ”
 
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 3/Ejercicio 3 - Apartado 3(2).png)
+
 **4ª parte del ejercicio.**
+
 S
 
 

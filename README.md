@@ -40,3 +40,19 @@
 
 Comandos Básicos de Git
 ===
+ 1. Add
+
+    2. Commit
+
+    3. Push
+
+    4. Pull
+
+    5. Clone
+
+    6. CheckOut
+
+    7. Branch
+
+    8. Merge
+

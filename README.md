@@ -1,6 +1,6 @@
 # Trabajo/Tutorial de GitHub
 
-![.](Trabajo-GitHub/Imagenes/Logo1.png)
+![.]([Trabajo-GitHub/Imagenes/Logo1.png](https://github.com/JoseMLG03/Trabajo-GitHub/blob/master/Imagenes/Logo1.png))
 
 ## Indice
 

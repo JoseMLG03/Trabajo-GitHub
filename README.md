@@ -113,11 +113,57 @@ Segundo se hace un “ **git add** . ” para añadir todo el contenido de la ca
 
 Tercero se hace un “ **git commit -m “Proyecto Ejemplo”** ” para subir todo lo almacenado a la subida al repositorio local.  
 
-
-
-
 Ejercicio 2
 ---
+El segundo ejercicio consta de los siguientes pasos.
+
+**1**- Crear un repositorio en GitHub con **README.md** y **.gitignore** que github ofrece para Java.
+	
+**2**- Modificación del README.md desde GitHub para indicar los dos primeros pasos.
+	
+**3**- Clonar el repositorio
+	
+**4**- Crear un proyecto en ese directorio
+	
+**5**- Correccion de creacion de proyecto en el directorio
+	
+------------------------------------------------------------
+	
+**1ª parte del ejercicio.**
+
+En la esquina superior derecha de la página de GitHub hay un “+” lo pulsas y en una pestaña emergente pulsas “New Repository”. 
+
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 1.png)
+
+Una vez dentro modificamos el repositorio a nuestro gusto, ajustando el propietario, nombre, descripción (Opcional) y visibilidad.
+
+Despues se ajusta con que quieres que se inicialice el repositorio, que aquí es donde se elejirá si queremos que tenga un README, .gitignore o licencia.
+
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 1 (2).png)
+
+**2ª parte del ejercicio.**
+En la esquina superior derecha de la página de GitHub, al clickar en nuestra foto de perfil saldrá una pestaña emergente, clickaremos en   “Your Repositories”.
+
+Despues buscaremos El repositorio que acabamos de crear que en mi caso sería EjemploEjercicio2.
+Una vez en el repositorio en cuestion se clicka en el lapiz y ya se podria modificar el README.md desde GitHub sin problemas
+
+3ª parte del ejercicio.
+
+Para clonar el repositorio hara falta usar un comando del terminal de Git Bash. El “Git Clone” de la siguiente manera.
+
+
+
+Se hace un “ git clone “URL de tu repositorio” ” para clonar el repositorio que tengamos subido a github en nuestro ordenador.
+
+4ª parte del ejercicio.
+
+Se crea un proyecto en el directorio, pero seleccionando como localizacion el repositorio clonado en cuestion.
+
+
+
+5ª parte del ejercicio.
+Como consecuencia de la localización el proyecto de IntelliJ se ha creado en una subcarpeta dentro del repositorio clonado, simplemente moveremos los archivos de dentro para la carpeta del repositorio.
+Antes:			Despues:
 
 
 

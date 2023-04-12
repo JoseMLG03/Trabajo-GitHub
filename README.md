@@ -4,7 +4,7 @@
 
 ## Indice
 
- 1. Que es Git y Github?
+ 1. ¿Que es Git y Github?
     1. Git
     2. GitHub
     
@@ -27,4 +27,11 @@
 
        - Conflictos en el Merge
 
-#Que 
+ 3. Ejercicios de Ejemplo Resueltos
+    1. Ejercicio 1
+    2. Ejercicio 2
+    3. Ejercicio 3
+    4. Ejercicio 4
+
+¿Que es Git y GitHub? 
+===

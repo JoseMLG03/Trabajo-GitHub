@@ -142,30 +142,43 @@ Despues se ajusta con que quieres que se inicialice el repositorio, que aquí es
 ![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 1 (2).png)
 
 **2ª parte del ejercicio.**
+
 En la esquina superior derecha de la página de GitHub, al clickar en nuestra foto de perfil saldrá una pestaña emergente, clickaremos en   “Your Repositories”.
 
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 2.png)
+
 Despues buscaremos El repositorio que acabamos de crear que en mi caso sería EjemploEjercicio2.
+
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 2(2).png)
+
 Una vez en el repositorio en cuestion se clicka en el lapiz y ya se podria modificar el README.md desde GitHub sin problemas
 
-3ª parte del ejercicio.
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 2(3).png)
+
+**3ª parte del ejercicio.**
 
 Para clonar el repositorio hara falta usar un comando del terminal de Git Bash. El “Git Clone” de la siguiente manera.
 
-
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 3.png)
 
 Se hace un “ git clone “URL de tu repositorio” ” para clonar el repositorio que tengamos subido a github en nuestro ordenador.
 
-4ª parte del ejercicio.
+**4ª parte del ejercicio.**
 
 Se crea un proyecto en el directorio, pero seleccionando como localizacion el repositorio clonado en cuestion.
 
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 4.png)
 
+**5ª parte del ejercicio.**
 
-5ª parte del ejercicio.
 Como consecuencia de la localización el proyecto de IntelliJ se ha creado en una subcarpeta dentro del repositorio clonado, simplemente moveremos los archivos de dentro para la carpeta del repositorio.
-Antes:			Despues:
+Antes:			
 
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 5.png)
 
+Despues:
+
+![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 5(2).png)
 
 Ejercicio 3
 ---

@@ -86,6 +86,8 @@ El primer ejercicio consta de los siguientes pasos.
   **1**- Crear un proyecto en IntelliJ
 	
   **2**- Subir el proyecto a un repositorio **local**
+  
+  
 
 **1ª parte del ejercicio.**
 

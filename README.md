@@ -72,7 +72,7 @@ Comandos Básicos de Git
  
  aaaaaa
 
-    Conflictos de Merge
+ - Conflictos de Merge
     
     aaaaa
 

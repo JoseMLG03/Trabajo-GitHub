@@ -9,21 +9,21 @@
     2. GitHub
     
 2.  Comandos Básicos GitHub
-    -Add
+    1. Add
 
-    -Commit
+    2. Commit
 
-    -Push
+    3. Push
 
-    -Pull
+    4. Pull
 
-    -Clone
+    5. Clone
 
-    -CheckOut
+    6. CheckOut
 
-    -Branch
+    7. Branch
 
-    -Merge
+    8. Merge
 
-       1. Conflictos en el Merge
+       - Conflictos en el Merge
 

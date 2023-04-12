@@ -86,7 +86,8 @@ El primer ejercicio consta de los siguientes pasos.
 	2- Subir el proyecto a un repositorio **local**
 
 **1ª parte del ejercicio.**
-Para crear un proyecto hará falta abrir intelliJ y clickar en: File > New > Project…
+Para crear un proyecto hará falta abrir intelliJ y clickar en: **File > New > Project…**
+
 Una vez dentro nos saldra un menú como este...  
 
 ![.](Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 1.png)

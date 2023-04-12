@@ -88,13 +88,17 @@ El primer ejercicio consta de los siguientes pasos.
 **1ª parte del ejercicio.**
 Para crear un proyecto hará falta abrir intelliJ y clickar en: File > New > Project…
 Una vez dentro nos saldra un menú como este...
+
 ![.](Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 1.png)
+
 Una vez dentro le ponemos nombre al proyecto la localización donde queramos guardarlo y se le clicka en “Create” una vez hayamos finalizado.
 
 **2ª parte del ejercicio.**
 Abriremos **Git Bash** en la ubicación del proyecto.
 Usaremos los comandos del terminal para crear un repositorio **local** al cual subiremos  el proyecto que acabamos de crear de la siguiente manera.
+
 ![.](Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 2.png)
+
 Primero se hace un “ **git init** ” para hacer el repositorio local al que subiremos el proyecto
 Segundo se hace un “ **git add** . ” para añadir todo el contenido de la carpeta a la subida
 Tercero se hace un “ **git commit -m “Proyecto Ejemplo”** ” para subir todo lo almacenado a la subida al repositorio local.

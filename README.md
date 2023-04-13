@@ -46,27 +46,29 @@ Comandos Básicos de Git
  
  - Commit
  
-    Se utiliza mediante el comando " **Git commit -m "Nombre del commit"** " para subir
+    Se utiliza mediante el comando " **Git commit -m "Nombre del commit"** " para subir todo lo que esté en la "Staging Area" al Repositorio Local
  
  - Push
  
-    aaaaa
+    Se utiliza mediante el comando " **Git push origin "nombre de la rama del repositorio remoto"** " para unirlo la rama indicada del repositorio remoto
  
  - Pull
  
-    aaaa
+    Se utiliza mediante el comando " **Git pull origin "nombre de la rama del repositorio remoto"** " para descargar la rama del repositorio remoto al local
  
  - Clone
  
-    aaaaa
+    Se utiliza mediante el comando " **Git clone "Url del repositorio"** " para descargar el contenido de un repositorio remoto público cualquiera mediante una url 	que se consigue entrando en uno y clickando en el boton verde que pone ""**Code**""
+    
+    ![FotoClone](GitClone.png)
 
  - CheckOut
  
-    aaaaaaa
+    Se utiliza mediante el comando " **Git Checkout "Archivo/ID del commit/HEAD Archivo"** " para volver un archivo concreto y especifico al estado del anterior         commit, la id del commit al que se quiera volver o con HEAD delante del archivo al que se quiera volver a la ultima version del mismo
 
  - Branch
- 
-   aaaaaa
+
+   AAAA
 
  - Merge
  

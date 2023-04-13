@@ -50,11 +50,11 @@ Comandos Básicos de Git
  
  - Push
  
-    Se utiliza mediante el comando " **Git push origin "nombre de la rama del repositorio remoto"** " para unirlo la rama indicada del repositorio remoto
+    Se utiliza mediante el comando " **Git push origin "Nombre de la rama del repositorio remoto"** " para unirlo la rama indicada del repositorio remoto
  
  - Pull
  
-    Se utiliza mediante el comando " **Git pull origin "nombre de la rama del repositorio remoto"** " para descargar la rama del repositorio remoto al local
+    Se utiliza mediante el comando " **Git pull origin "Nombre de la rama del repositorio remoto"** " para descargar la rama del repositorio remoto al local
  
  - Clone
  

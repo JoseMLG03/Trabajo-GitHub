@@ -1,6 +1,6 @@
 # Trabajo/Tutorial de GitHub
 
-![.]([Trabajo-GitHub/Imagenes/Logo1.png](https://github.com/JoseMLG03/Trabajo-GitHub/blob/master/Imagenes/Logo1.png))
+![.](https://pinno.app/api/internal/cdb/contents/5b11e3c5-8871-4659-8e23-22b50fc43019/0/99713)
 
 ## Indice
 
@@ -42,11 +42,11 @@ Comandos Básicos de Git
 ===
  - Add
  
-    aaaa
+    Se utiliza mediante el comando " **Git add "Nombre de archivo"** " para introducirlo en la zona de **Staging**
  
  - Commit
  
-    aaaaa
+    Se utiliza mediante el comando ""
  
  - Push
  

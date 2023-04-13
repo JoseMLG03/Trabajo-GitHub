@@ -95,7 +95,7 @@ Para crear un proyecto hará falta abrir intelliJ y clickar en: **File > New > P
 
 Una vez dentro nos saldra un menú como este...  
 
-![fotoEjercicio1]([Ejercicio 1 - Apartado 1.png])
+![fotoEjercicio1](Ejercicio 1 - Apartado 1.png)
 
 Una vez dentro le ponemos nombre al proyecto la localización donde queramos guardarlo y se le clicka en “Create” una vez hayamos finalizado.  
 

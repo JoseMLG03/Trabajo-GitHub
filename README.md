@@ -95,7 +95,7 @@ Para crear un proyecto hará falta abrir intelliJ y clickar en: **File > New > P
 
 Una vez dentro nos saldra un menú como este...  
 
-![.](Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 1.png)
+![.](/Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 1.png)
 
 Una vez dentro le ponemos nombre al proyecto la localización donde queramos guardarlo y se le clicka en “Create” una vez hayamos finalizado.  
 
@@ -105,7 +105,7 @@ Abriremos **Git Bash** en la ubicación del proyecto.
 
 Usaremos los comandos del terminal para crear un repositorio **local** al cual subiremos  el proyecto que acabamos de crear de la siguiente manera.  
 
-![.](Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 2.png)
+![.](/Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 2.png)
 
 Primero se hace un “ **git init** ” para hacer el repositorio local al que subiremos el proyecto
 

@@ -46,7 +46,7 @@ Comandos Básicos de Git
  
  - Commit
  
-    Se utiliza mediante el comando ""
+    Se utiliza mediante el comando " **Git commit -m "Nombre del commit"** " para subir
  
  - Push
  

@@ -1,6 +1,6 @@
 # Trabajo/Tutorial de GitHub
 
-![.](https://pinno.app/api/internal/cdb/contents/5b11e3c5-8871-4659-8e23-22b50fc43019/0/99713)
+![.]()
 
 ## Indice
 

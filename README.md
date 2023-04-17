@@ -33,7 +33,7 @@
     3. **Ejercicio 3**
     4. **Ejercicio 4**
 
-¿Que es Git y GitHub? 
+¿Qué es Git y GitHub? 
 ===
 
 

@@ -1,6 +1,6 @@
 # Trabajo/Tutorial de GitHub
 
-![.]()
+![.](Imagenes/Logo1.png)
 
 ## Indice
 
@@ -60,7 +60,7 @@ Comandos Básicos de Git
  
     Se utiliza mediante el comando " **Git clone "Url del repositorio"** " para descargar el contenido de un repositorio remoto público cualquiera mediante una url 	que se consigue entrando en uno y clickando en el boton verde que pone ""**Code**""
     
-    ![FotoClone](GitClone.png)
+    ![FotoClone](Imagenes/2.%20Comandos.Git/GitClone.png)
 
  - CheckOut
  
@@ -97,7 +97,7 @@ Para crear un proyecto hará falta abrir intelliJ y clickar en: **File > New > P
 
 Una vez dentro nos saldra un menú como este...  
 
-![fotoEjercicio1](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 1.png)
+![fotoEjercicio1](Imagenes/3.Ejercicios/Ejercicio%201/Ejercicio%201%20-%20Apartado%201.png)
 
 Una vez dentro le ponemos nombre al proyecto la localización donde queramos guardarlo y se le clicka en “Create” una vez hayamos finalizado.  
 
@@ -107,7 +107,7 @@ Abriremos **Git Bash** en la ubicación del proyecto.
 
 Usaremos los comandos del terminal para crear un repositorio **local** al cual subiremos  el proyecto que acabamos de crear de la siguiente manera.  
 
-![.](/Imagenes/3.Ejercicios/Ejercicio 1/Ejercicio 1 - Apartado 2.png)
+![.](Imagenes/3.Ejercicios/Ejercicio%201/Ejercicio%201%20-%20Apartado%202.png)
 
 Primero se hace un “ **git init** ” para hacer el repositorio local al que subiremos el proyecto
 
@@ -135,33 +135,33 @@ El segundo ejercicio consta de los siguientes pasos.
 
 En la esquina superior derecha de la página de GitHub hay un “+” lo pulsas y en una pestaña emergente pulsas “New Repository”. 
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 1.png)
+![.](Imagenes/3.Ejercicios/Ejercicio%202/Ejercicio%202%20-%20Apartado%201.png)
 
 Una vez dentro modificamos el repositorio a nuestro gusto, ajustando el propietario, nombre, descripción (Opcional) y visibilidad.
 
 Despues se ajusta con que quieres que se inicialice el repositorio, que aquí es donde se elejirá si queremos que tenga un README, .gitignore o licencia.
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 1 (2).png)
+![.](Imagenes/3.Ejercicios/Ejercicio%202/Ejercicio%202%20-%20Apartado%201%20(2).png)
 
 **2ª parte del ejercicio.**
 
 En la esquina superior derecha de la página de GitHub, al clickar en nuestra foto de perfil saldrá una pestaña emergente, clickaremos en   “Your Repositories”.
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 2.png)
+![.](Imagenes/3.Ejercicios/Ejercicio%202/Ejercicio%202%20-%20Apartado%202.png)
 
 Despues buscaremos El repositorio que acabamos de crear que en mi caso sería EjemploEjercicio2.
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 2(2).png)
+![.](Imagenes/3.Ejercicios/Ejercicio%202/Ejercicio%202%20-%20Apartado%202(2).png)
 
 Una vez en el repositorio en cuestion se clicka en el lapiz y ya se podria modificar el README.md desde GitHub sin problemas
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 2(3).png)
+![.](Imagenes/3.Ejercicios/Ejercicio%202/Ejercicio%202%20-%20Apartado%202(3).png)
 
 **3ª parte del ejercicio.**
 
 Para clonar el repositorio hara falta usar un comando del terminal de Git Bash. El “Git Clone” de la siguiente manera.
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 3.png)
+![.](Imagenes/3.Ejercicios/Ejercicio%202/Ejercicio%202%20-%20Apartado%203.png)
 
 Se hace un “ git clone “URL de tu repositorio” ” para clonar el repositorio que tengamos subido a github en nuestro ordenador.
 
@@ -169,18 +169,18 @@ Se hace un “ git clone “URL de tu repositorio” ” para clonar el reposito
 
 Se crea un proyecto en el directorio, pero seleccionando como localizacion el repositorio clonado en cuestion.
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 4.png)
+![.](Imagenes/3.Ejercicios/Ejercicio%202/Ejercicio%202%20-%20Apartado%204.png)
 
 **5ª parte del ejercicio.**
 
 Como consecuencia de la localización el proyecto de IntelliJ se ha creado en una subcarpeta dentro del repositorio clonado, simplemente moveremos los archivos de dentro para la carpeta del repositorio.
 Antes:			
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 5.png)
+![.](Imagenes/3.Ejercicios/Ejercicio%202/Ejercicio%202%20-%20Apartado%205.png)
 
 Despues:
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 2/Ejercicio 2 - Apartado 5(2).png)
+![.](Imagenes/3.Ejercicios/Ejercicio%202/Ejercicio%202%20-%20Apartado%205(2).png)
 
 Ejercicio 3
 ---
@@ -228,11 +228,11 @@ Crear un proyecto nuevo como se ha indicado anteriormente en el
 
 Se añade el repositorio de GitHub como remoto mediante el comando “**git remote add origin “URL de tu repositorio”** ”
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 3/Ejercicio 3 - Apartado 3.png)
+![.](Imagenes/3.Ejercicios/Ejercicio%203/Ejercicio%203%20-%20Apartado%203.png)
 
 Para hacer el pull se hará con “ **git pull origin main** ”
 
-![.](Trabajo-GitHub/Imagenes/3.Ejercicios/Ejercicio 3/Ejercicio 3 - Apartado 3(2).png)
+![.](Imagenes/3.Ejercicios/Ejercicio%203/Ejercicio%203%20-%20Apartado%203(2).png)
 
 **4ª parte del ejercicio.**
 

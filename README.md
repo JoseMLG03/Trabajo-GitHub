@@ -35,7 +35,19 @@
 
 ¿Qué es Git y GitHub? 
 ===
+La diferencia entre Git y Github es que Git es el software para gestionar las versiones del proyecto, mientras que GitHub es donde se suben y se guardan en la nube.
 
+Git funciona de la siguiente manera, contando con 4 zonas diferenciadas.
+
+- **Working Directory**: Siendo este el directorio local sobre el que se trabaja el programa.
+
+- **Staging Area**: La zona donde se prepara lo que se vaya a subir al repositorio Local
+
+- **Local Repo**: El repositorio local donde se guardaran las versiones de nuestro programa con sus correspondientes commits para tener así control de versiones.
+
+- **Remote Repo**: El reposittorio en la nube, alojado en GitHub asociado a tu cuenta del mismo, donde se subirán remotamente los repositorios locales.
+
+![fotoEjercicio1](Imagenes/1.Que.es.Git.y.GitHub/git-zonas.jpg)
 
 
 Comandos Básicos de Git

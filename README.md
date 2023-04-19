@@ -80,15 +80,15 @@ Comandos Básicos de Git
 
  - Branch
 
-   AAAA
+    Se utiliza mediante el comando " **Git branch "Nombre de la rama a crear"** " desde la rama en la que estés en ese momento para crear una a partir de esa, o en 	su defecto para borrar una rama mediante " **Git branch -d "Nombre de la rama existente"** "
 
  - Merge
  
-   aaaaaa
+    Se utiliza mediante el comando " **Git merge "Nombre de la rama "** " para unirse una rama con otra.
 
- - Conflictos de Merge
+   - Conflictos de Merge
     
-   aaaaa
+      En caso de haber conflicto con el merge de las ramas, se tienen que resolver manualmente e individualmente mediante git add, commits etc. para que te deje  	"mergear"
    
 Ejercicios de Ejemplo Resueltos
 ===

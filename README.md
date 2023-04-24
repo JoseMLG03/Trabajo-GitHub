@@ -4,40 +4,40 @@
 
 ## Indice
 
- 1. ¿**Que es** Git y Github?
-    1. **Git**
-    2. **GitHub**
+ 1. [¿**Que es** Git y Github?](#¿que-es-git-y-github)
+    1. [**Git y github**](#¿que-es-git-y-github)
+    2. [**Funcionamiento git**](#git-funciona-de-la-siguiente-manera-contando-con-4-zonas-diferenciadas)
     
-2.  **Comandos Básicos** Git
-    1. **Add**
+2.  [**Comandos Básicos** Git](#comandos-básicos-de-git)
+    1. [**Add**](#add)
 
-    2. **Commit**
+    2. [**Commit**](#commit)
 
-    3. **Push**
+    3. [**Push**](#push)
 
-    4. **Pull**
+    4. [**Pull**](#pull)
 
-    5. **Clone**
+    5. [**Clone**](#clone)
 
-    6. **CheckOut**
+    6. [**CheckOut**](#checkout)
 
-    7. **Branch**
+    7. [**Branch**](#branch)
 
-    8. **Merge**
+    8. [**Merge**](#merge)
 
-       - **Conflictos en el Merge**
+       - [**Conflictos en el Merge**](#conflictos-de-merge)
 
- 3. **Ejercicios de Ejemplo Resueltos**
-    1. **Ejercicio 1**
-    2. **Ejercicio 2**
-    3. **Ejercicio 3**
-    4. **Ejercicio 4**
+ 3. [**Ejercicios de Ejemplo Resueltos**](#ejercicios-de-ejemplo-resueltos)
+    1. [**Ejercicio 1**](#ejercicio-1)
+    2. [**Ejercicio 2**](#ejercicio-2)
+    3. [**Ejercicio 3**](#ejercicio-3)
+    4. [**Ejercicio 4**](#ejercicio-4)
 
-¿Qué es Git y GitHub? 
-===
+## ¿Que es Git y GitHub?
+
 La diferencia entre Git y Github es que Git es el software para gestionar las versiones del proyecto, mientras que GitHub es donde se suben y se guardan en la nube.
 
-Git funciona de la siguiente manera, contando con 4 zonas diferenciadas.
+## Git funciona de la siguiente manera, contando con 4 zonas diferenciadas.
 
 - **Working Directory**: Siendo este el directorio local sobre el que se trabaja el programa.
 
@@ -50,48 +50,49 @@ Git funciona de la siguiente manera, contando con 4 zonas diferenciadas.
 ![fotoEjercicio1](Imagenes/1.Que.es.Git.y.GitHub/git-zonas.jpg)
 
 
-Comandos Básicos de Git
+
+## Comandos Básicos de Git
 ===
- - Add
+ - ## Add
  
     Se utiliza mediante el comando " **Git add "Nombre de archivo"** " para introducirlo en la zona de **Staging**
  
- - Commit
+ - ## Commit
  
     Se utiliza mediante el comando " **Git commit -m "Nombre del commit"** " para subir todo lo que esté en la "Staging Area" al Repositorio Local
  
- - Push
+ - ## Push
  
     Se utiliza mediante el comando " **Git push origin "Nombre de la rama del repositorio remoto"** " para unirlo la rama indicada del repositorio remoto
  
- - Pull
+ - ## Pull
  
     Se utiliza mediante el comando " **Git pull origin "Nombre de la rama del repositorio remoto"** " para descargar la rama del repositorio remoto al local
  
- - Clone
+ - ## Clone
  
     Se utiliza mediante el comando " **Git clone "Url del repositorio"** " para descargar el contenido de un repositorio remoto público cualquiera mediante una url 	que se consigue entrando en uno y clickando en el boton verde que pone ""**Code**""
     
     ![FotoClone](Imagenes/2.%20Comandos.Git/GitClone.png)
 
- - CheckOut
+ - ## CheckOut
  
     Se utiliza mediante el comando " **Git Checkout "Archivo/ID del commit/HEAD Archivo"** " para volver un archivo concreto y especifico al estado del anterior         commit, la id del commit al que se quiera volver o con HEAD delante del archivo al que se quiera volver a la ultima version del mismo
 
- - Branch
+ - ## Branch
 
-    Se utiliza mediante el comando " **Git branch "Nombre de la rama a crear"** " desde la rama en la que estés en ese momento para crear una a partir de esa, o en 	su defecto para borrar una rama mediante " **Git branch -d "Nombre de la rama existente"** "
+    Se utiliza mediante el comando " **Git branch "Nombre de la rama a crear"** " desde la rama en la que estés en ese momento para crear una a partir de esa, o en su defecto para borrar una rama mediante " **Git branch -d "Nombre de la rama existente"** "
 
- - Merge
+ - ## Merge
  
     Se utiliza mediante el comando " **Git merge "Nombre de la rama "** " para unirse una rama con otra.
 
-   - Conflictos de Merge
+   - ## Conflictos de Merge
     
-      En caso de haber conflicto con el merge de las ramas, se tienen que resolver manualmente e individualmente mediante git add, commits etc. para que te deje  	"mergear"
+      En caso de haber conflicto con el merge de las ramas, se tienen que resolver manualmente e individualmente mediante git add, commits etc. para que te deje "mergear"
    
-Ejercicios de Ejemplo Resueltos
-===
+## Ejercicios de Ejemplo Resueltos
+---
 
 Ejercicio 1
 ---
